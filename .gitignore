@@ -39,3 +39,7 @@ public
 # Node.JS
 node_modules
 npm-debug.log
+
+#config
+config/db.js
+.env
